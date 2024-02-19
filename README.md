@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./MongoDB_logo.png" alt="MongoDB_logo" style="display: block; margin: 0 auto;">
+    <img src="./MongoDB_logo.png" alt="MongoDB_logo" style="display: block; margin: 0 auto; width: 45%; height: auto;">
 </p>
 
 ---
